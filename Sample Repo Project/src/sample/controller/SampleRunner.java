@@ -11,7 +11,7 @@ public class SampleRunner
 {
 
 	/**
-	 * @param args
+	 * @param args There are no argmuments here.
 	 */
 	public static void main(String[] args)
 	{
