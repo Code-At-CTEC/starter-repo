@@ -2,6 +2,11 @@ package sample.controller;
 
 import sample.view.SampleFrame;
 
+/**
+ * This is the runner and will not change again
+ * @author cody.henrichsen
+ * @version 1.0
+ */
 public class SampleRunner
 {
 
